@@ -12,7 +12,6 @@ No. | Protocol | Supported Standards | Status
 7 | G.709 | RFCx | OK
 8 | Wi-Fi | RFCx | OK
 
-
 # 2. Data Link Layer 
 No. | Protocol | Supported Standards | Status
 --- | -------- | ------------------- | --- 
@@ -25,8 +24,18 @@ No. | Protocol | Supported Standards | Status
 7 | PPP | RFCx | OK
 
 # 3. Network layer	
-
-IP (IPv4 - IPv6) - ARP - RARP - ICMP - IGMP - RSVP - IPSec - IPX/SPX
+No. | Protocol | Supported Standards | Status
+--- | -------- | ------------------- | --- 
+1 | IPv4 | RFCx | OK
+2 | IPv6 | RFCx | OK
+3 | ARP | RFCx | OK
+4 | RARP | RFCx | OK
+5 | RARP | RFCx | OK
+6 | ICMP | RFCx | OK
+7 | IGMP | RFCx | OK
+8 | RSVP | RFCx | OK
+9 | IPSec | RFCx | OK
+10 | IPX/SPX | RFCx | OK
 
 # 4. Transport layer	 
 
