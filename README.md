@@ -1,4 +1,4 @@
-# Fshark - The best PCAP Handler
+# Fshark - The best pcap handler
 
 No. | Protocol | Supported Standards | Status
 --- | -------- | ------------------- | --- 
