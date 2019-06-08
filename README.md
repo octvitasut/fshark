@@ -1,9 +1,5 @@
 # Fshark - The best PCAP Handler
 
-**Supported Protocols**:
-
-_Basic Protocols_<br>
-1.  
-
-_Advanced Protocols_<br>
-2.  
+No. | Protocol | Supported Standards | Status
+--- | -------- | ------------------- | --- 
+1 | IMAP4 | RFCx | OK
