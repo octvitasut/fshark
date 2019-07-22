@@ -18,7 +18,7 @@ No. | Protocol | Supported Standards | Status
 1 | ATM | RFCx | OK
 2 | DTM | RFCx | OK
 3 | Ethernet | RFCx | OK
-4 | FDDI | RFCx | OK
+4 | FDDI | RFC1512 | OK
 5 | Frame Relay | RFCx | OK
 6 | GPRS | RFCx | OK
 7 | PPP | RFCx | OK
@@ -26,13 +26,13 @@ No. | Protocol | Supported Standards | Status
 # 3. Network layer	
 No. | Protocol | Supported Standards | Status
 --- | -------- | ------------------- | --- 
-1 | IPv4 | RFCx | OK
-2 | IPv6 | RFCx | OK
-3 | ARP | RFCx | OK
-4 | RARP | RFCx | OK
+1 | IPv4 | RFC791 | OK
+2 | IPv6 | RFC2460| OK
+3 | ARP | RFC826 | OK
+4 | RARP | RFC903 | OK
 5 | RARP | RFCx | OK
-6 | ICMP | RFCx | OK
-7 | IGMP | RFCx | OK
+6 | ICMP | RFC792 | OK
+7 | IGMP | RFC3376 | OK
 8 | RSVP | RFCx | OK
 9 | IPSec | RFCx | OK
 10 | IPX/SPX | RFCx | OK
