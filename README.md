@@ -4,7 +4,7 @@
 No. | Protocol | Supported Standards | Status
 --- | -------- | ------------------- | --- 
 1 | Ethernet physical layer | RFCx | OK
-2 | ISDN | RFCx | OK
+2 | ISDN | RFC4233 | OK
 3 | Modems | RFCx | OK
 4 | PLC | RFCx | OK
 5 | RS232 | RFCx | OK
@@ -17,24 +17,24 @@ No. | Protocol | Supported Standards | Status
 --- | -------- | ------------------- | --- 
 1 | ATM | RFCx | OK
 2 | DTM | RFCx | OK
-3 | Ethernet | RFCx | OK
-4 | FDDI | RFCx | OK
+3 | Ethernet | RFC826 | OK
+4 | FDDI | RFC1512 | OK
 5 | Frame Relay | RFCx | OK
 6 | GPRS | RFCx | OK
-7 | PPP | RFCx | OK
+7 | PPP | RFC1661 | OK
 
 # 3. Network layer	
 No. | Protocol | Supported Standards | Status
 --- | -------- | ------------------- | --- 
-1 | IPv4 | RFCx | OK
-2 | IPv6 | RFCx | OK
-3 | ARP | RFCx | OK
-4 | RARP | RFCx | OK
+1 | IPv4 | RFC791 | OK
+2 | IPv6 | RFC1883 | OK
+3 | ARP | RFC826 | OK
+4 | RARP | RFC903 | OK
 5 | RARP | RFCx | OK
-6 | ICMP | RFCx | OK
-7 | IGMP | RFCx | OK
-8 | RSVP | RFCx | OK
-9 | IPSec | RFCx | OK
+6 | ICMP | RFC792 | OK
+7 | IGMP | RFC2236/3376 | OK
+8 | RSVP | RFC2205 | OK
+9 | IPSec | RFC6071 | OK
 10 | IPX/SPX | RFCx | OK
 
 # 4. Transport layer	 
