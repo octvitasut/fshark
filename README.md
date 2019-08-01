@@ -43,3 +43,38 @@ TCP - UDP - DCCP - SCTP - GTP
 
 # 5. Application layer	    
 DHCP - DNS - FTP - HTTP - IMAP4 - IRC - NNTP - XMPP - MIME - POP3 - SIP - SMTP - SNMP - SSH - TELNET - BGP - ONC/RPC - RTP - RTCP - TLS/SSL - SDP - SOAP - L2TP - PPTP - LDAP - MGCP - NTP - POP - RTSP - RIP 
+
+**Mail**
+POP - POP3 - IMAP4 - SMTP - MIME
+
+**Netwrok**
+DNS - DHCP - SNMP - BGP - RIP - L2TP - NNTP
+
+**Data transfer**
+FTP -
+
+**Web**
+HTTP - TLS/SSL
+
+**Chat**
+IRC - XMPP
+
+**Remote Access**
+SSH - TELNET
+
+**VoIP**
+SIP - RTCP - MGCP
+
+**Media**
+RTP - RTSP - SDP
+
+**System OS**
+LDAP - NTP
+
+**VPN**
+PPTP - 
+
+**Other**
+SOAP - ONC/RPC
+
+
