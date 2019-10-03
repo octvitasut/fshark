@@ -1,0 +1,16 @@
+{
+    "dashboard": {
+        "description": "", 
+        "hits": 0, 
+        "kibanaSavedObjectMeta": {
+            "searchSourceJSON": "{\"query\":{\"language\":\"lucene\",\"query\":\"SN-IMAP\"},\"filter\":[]}"
+        }, 
+        "optionsJSON": "{\"darkTheme\":false,\"hidePanelTitles\":false,\"useMargins\":true}", 
+        "panelsJSON": "[{\"embeddableConfig\":{},\"gridData\":{\"h\":15,\"i\":\"1\",\"w\":13,\"x\":0,\"y\":24},\"id\":\"e88aa900-dee1-11e9-8b38-bbc335ba1a14\",\"panelIndex\":\"1\",\"type\":\"visualization\",\"version\":\"6.8.2\"},{\"embeddableConfig\":{},\"gridData\":{\"h\":15,\"i\":\"2\",\"w\":12,\"x\":13,\"y\":24},\"id\":\"cf37f6b0-dee1-11e9-8b38-bbc335ba1a14\",\"panelIndex\":\"2\",\"type\":\"visualization\",\"version\":\"6.8.2\"},{\"embeddableConfig\":{},\"gridData\":{\"h\":15,\"i\":\"3\",\"w\":24,\"x\":0,\"y\":39},\"id\":\"6037d370-dee1-11e9-8b38-bbc335ba1a14\",\"panelIndex\":\"3\",\"type\":\"visualization\",\"version\":\"6.8.2\"},{\"embeddableConfig\":{},\"gridData\":{\"h\":9,\"i\":\"4\",\"w\":48,\"x\":0,\"y\":0},\"id\":\"77664630-dee1-11e9-8b38-bbc335ba1a14\",\"panelIndex\":\"4\",\"type\":\"visualization\",\"version\":\"6.8.2\"},{\"embeddableConfig\":{},\"gridData\":{\"h\":15,\"i\":\"5\",\"w\":48,\"x\":0,\"y\":9},\"id\":\"077f9e10-dee2-11e9-8b38-bbc335ba1a14\",\"panelIndex\":\"5\",\"type\":\"visualization\",\"version\":\"6.8.2\"},{\"embeddableConfig\":{},\"gridData\":{\"h\":15,\"i\":\"6\",\"w\":18,\"x\":29,\"y\":54},\"id\":\"5521e290-dee2-11e9-8b38-bbc335ba1a14\",\"panelIndex\":\"6\",\"type\":\"visualization\",\"version\":\"6.8.2\"},{\"embeddableConfig\":{},\"gridData\":{\"h\":15,\"i\":\"7\",\"w\":11,\"x\":25,\"y\":24},\"id\":\"794aa120-dee2-11e9-8b38-bbc335ba1a14\",\"panelIndex\":\"7\",\"type\":\"visualization\",\"version\":\"6.8.2\"},{\"embeddableConfig\":{},\"gridData\":{\"h\":14,\"i\":\"8\",\"w\":12,\"x\":36,\"y\":24},\"id\":\"98868a40-dee2-11e9-8b38-bbc335ba1a14\",\"panelIndex\":\"8\",\"type\":\"visualization\",\"version\":\"6.8.2\"},{\"embeddableConfig\":{},\"gridData\":{\"h\":15,\"i\":\"9\",\"w\":22,\"x\":24,\"y\":39},\"id\":\"b6bd1150-dee2-11e9-8b38-bbc335ba1a14\",\"panelIndex\":\"9\",\"type\":\"visualization\",\"version\":\"6.8.2\"},{\"embeddableConfig\":{},\"gridData\":{\"h\":15,\"i\":\"10\",\"w\":14,\"x\":14,\"y\":54},\"id\":\"dbc47010-dee2-11e9-8b38-bbc335ba1a14\",\"panelIndex\":\"10\",\"type\":\"visualization\",\"version\":\"6.8.2\"},{\"embeddableConfig\":{},\"gridData\":{\"h\":15,\"i\":\"11\",\"w\":14,\"x\":0,\"y\":54},\"id\":\"f5bbc6d0-dee2-11e9-8b38-bbc335ba1a14\",\"panelIndex\":\"11\",\"type\":\"visualization\",\"version\":\"6.8.2\"},{\"embeddableConfig\":{},\"gridData\":{\"h\":19,\"i\":\"12\",\"w\":47,\"x\":0,\"y\":69},\"id\":\"3a32eff0-dee3-11e9-8b38-bbc335ba1a14\",\"panelIndex\":\"12\",\"type\":\"search\",\"version\":\"6.8.2\"}]", 
+        "timeRestore": false, 
+        "title": "SN-IMAP", 
+        "version": 1
+    }, 
+    "type": "dashboard", 
+    "updated_at": "2019-09-24T15:58:01.181Z"
+}

@@ -1,0 +1,20 @@
+{
+    "search": {
+        "columns": [
+            "_source"
+        ], 
+        "description": "", 
+        "hits": 0, 
+        "kibanaSavedObjectMeta": {
+            "searchSourceJSON": "{\"index\":\"6731fa80-dee0-11e9-8b38-bbc335ba1a14\",\"highlightAll\":true,\"version\":true,\"query\":{\"query\":\"\",\"language\":\"lucene\"},\"filter\":[]}"
+        }, 
+        "sort": [
+            "@timestamp", 
+            "desc"
+        ], 
+        "title": "T38 new Events", 
+        "version": 1
+    }, 
+    "type": "search", 
+    "updated_at": "2019-09-25T14:42:38.822Z"
+}

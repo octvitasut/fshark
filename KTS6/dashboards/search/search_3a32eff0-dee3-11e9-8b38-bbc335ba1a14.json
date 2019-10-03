@@ -1,0 +1,20 @@
+{
+    "search": {
+        "columns": [
+            "_source"
+        ], 
+        "description": "", 
+        "hits": 0, 
+        "kibanaSavedObjectMeta": {
+            "searchSourceJSON": "{\"index\":\"78f00ff0-dee0-11e9-8b38-bbc335ba1a14\",\"highlightAll\":true,\"version\":true,\"query\":{\"language\":\"lucene\",\"query\":\"\"},\"filter\":[]}"
+        }, 
+        "sort": [
+            "@timestamp", 
+            "desc"
+        ], 
+        "title": "SN-IMAP-EventsList", 
+        "version": 1
+    }, 
+    "type": "search", 
+    "updated_at": "2019-09-24T15:51:52.687Z"
+}
