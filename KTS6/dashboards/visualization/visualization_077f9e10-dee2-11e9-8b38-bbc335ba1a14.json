@@ -1,0 +1,17 @@
+{
+    "migrationVersion": {
+        "visualization": "6.7.2"
+    }, 
+    "type": "visualization", 
+    "updated_at": "2019-09-24T15:43:18.129Z", 
+    "visualization": {
+        "description": "", 
+        "kibanaSavedObjectMeta": {
+            "searchSourceJSON": "{\"index\":\"78f00ff0-dee0-11e9-8b38-bbc335ba1a14\",\"query\":{\"query\":\"\",\"language\":\"lucene\"},\"filter\":[]}"
+        }, 
+        "title": "SN-IMAP-GeoIP", 
+        "uiStateJSON": "{}", 
+        "version": 1, 
+        "visState": "{\"title\":\"SN-IMAP-GeoIP\",\"type\":\"tile_map\",\"params\":{\"colorSchema\":\"Yellow to Red\",\"mapType\":\"Scaled Circle Markers\",\"isDesaturated\":true,\"addTooltip\":true,\"heatClusterSize\":1.5,\"legendPosition\":\"bottomright\",\"mapZoom\":2,\"mapCenter\":[0,0],\"wms\":{\"enabled\":false,\"options\":{\"format\":\"image/png\",\"transparent\":true},\"selectedTmsLayer\":{\"origin\":\"elastic_maps_service\",\"id\":\"road_map\",\"minZoom\":0,\"maxZoom\":18,\"attribution\":\"<p>&#169; <a href=\\\"https://www.openstreetmap.org/copyright\\\">OpenStreetMap contributors</a>|<a href=\\\"https://openmaptiles.org\\\">OpenMapTiles</a>|<a href=\\\"https://www.maptiler.com\\\">MapTiler</a>|<a href=\\\"https://www.elastic.co/elastic-maps-service\\\">Elastic Maps Service</a></p>&#10;\"}}},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{}},{\"id\":\"2\",\"enabled\":true,\"type\":\"geohash_grid\",\"schema\":\"segment\",\"params\":{\"field\":\"geoip.location\",\"autoPrecision\":true,\"isFilteredByCollar\":true,\"useGeocentroid\":true,\"mapZoom\":2,\"mapCenter\":[0,0],\"precision\":2}}]}"
+    }
+}

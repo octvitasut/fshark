@@ -1,0 +1,17 @@
+{
+    "migrationVersion": {
+        "visualization": "6.7.2"
+    }, 
+    "type": "visualization", 
+    "updated_at": "2019-09-25T14:50:23.887Z", 
+    "visualization": {
+        "description": "", 
+        "kibanaSavedObjectMeta": {
+            "searchSourceJSON": "{\"index\":\"bf51f210-dee0-11e9-8b38-bbc335ba1a14\",\"query\":{\"query\":\"\",\"language\":\"lucene\"},\"filter\":[]}"
+        }, 
+        "title": "SN-oicq-Total", 
+        "uiStateJSON": "{}", 
+        "version": 1, 
+        "visState": "{\"title\":\"SN-oicq-Total\",\"type\":\"metric\",\"params\":{\"addTooltip\":true,\"addLegend\":false,\"type\":\"metric\",\"metric\":{\"percentageMode\":false,\"useRanges\":false,\"colorSchema\":\"Green to Red\",\"metricColorMode\":\"None\",\"colorsRange\":[{\"from\":0,\"to\":10000}],\"labels\":{\"show\":true},\"invertColors\":false,\"style\":{\"bgFill\":\"#000\",\"bgColor\":false,\"labelColor\":false,\"subText\":\"\",\"fontSize\":60}}},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{}}]}"
+    }
+}

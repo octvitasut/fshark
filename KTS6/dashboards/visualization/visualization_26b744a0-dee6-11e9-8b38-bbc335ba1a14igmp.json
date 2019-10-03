@@ -1,0 +1,17 @@
+{
+    "migrationVersion": {
+        "visualization": "6.7.2"
+    }, 
+    "type": "visualization", 
+    "updated_at": "2019-09-25T15:00:55.836Z", 
+    "visualization": {
+        "description": "", 
+        "kibanaSavedObjectMeta": {
+            "searchSourceJSON": "{\n  \"index\": \"logstash-igmp-*\",\n  \"query\": {\n    \"query\": \"\",\n    \"language\": \"lucene\"\n  },\n  \"filter\": []\n}"
+        }, 
+        "title": "SN-igmp-Top20srcport", 
+        "uiStateJSON": "{\n  \"vis\": {\n    \"params\": {\n      \"sort\": {\n        \"columnIndex\": null,\n        \"direction\": null\n      }\n    }\n  }\n}", 
+        "version": 1, 
+        "visState": "{\n  \"title\": \"SN-igmp-Top20srcport\",\n  \"type\": \"table\",\n  \"params\": {\n    \"perPage\": 10,\n    \"showPartialRows\": false,\n    \"showMetricsAtAllLevels\": false,\n    \"sort\": {\n      \"columnIndex\": null,\n      \"direction\": null\n    },\n    \"showTotal\": false,\n    \"totalFunc\": \"sum\"\n  },\n  \"aggs\": [\n    {\n      \"id\": \"1\",\n      \"enabled\": true,\n      \"type\": \"count\",\n      \"schema\": \"metric\",\n      \"params\": {}\n    },\n    {\n      \"id\": \"2\",\n      \"enabled\": true,\n      \"type\": \"terms\",\n      \"schema\": \"bucket\",\n      \"params\": {\n        \"field\": \"src_port\",\n        \"size\": 20,\n        \"order\": \"desc\",\n        \"orderBy\": \"1\",\n        \"otherBucket\": false,\n        \"otherBucketLabel\": \"Other\",\n        \"missingBucket\": false,\n        \"missingBucketLabel\": \"Missing\"\n      }\n    }\n  ]\n}"
+    }
+}

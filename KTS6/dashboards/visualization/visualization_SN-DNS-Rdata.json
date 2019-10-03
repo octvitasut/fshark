@@ -1,0 +1,14 @@
+{
+    "type": "visualization", 
+    "updated_at": "2019-09-23T15:47:54.430Z", 
+    "visualization": {
+        "description": "", 
+        "kibanaSavedObjectMeta": {
+            "searchSourceJSON": "{\n  \"index\": \"logstash-dns-*\",\n  \"query\": {\n    \"query_string\": {\n      \"query\": \"event_type: dns\",\n      \"analyze_wildcard\": true\n    }\n  },\n  \"filter\": []\n}"
+        }, 
+        "title": "SN-DNS-Rdata", 
+        "uiStateJSON": "{}", 
+        "version": 1, 
+        "visState": "{\n  \"title\": \"SN-DNS-Type\",\n  \"type\": \"pie\",\n  \"params\": {\n    \"shareYAxis\": true,\n    \"addTooltip\": true,\n    \"addLegend\": true,\n    \"isDonut\": false\n  },\n  \"aggs\": [\n    {\n      \"id\": \"1\",\n      \"type\": \"count\",\n      \"schema\": \"metric\",\n      \"params\": {}\n    },\n    {\n      \"id\": \"2\",\n      \"type\": \"terms\",\n      \"schema\": \"segment\",\n      \"params\": {\n        \"field\": \"dns.answers.rdata.keyword\",\n        \"size\": 10,\n        \"order\": \"desc\",\n        \"orderBy\": \"1\"\n      }\n    }\n  ],\n  \"listeners\": {}\n}"
+    }
+}

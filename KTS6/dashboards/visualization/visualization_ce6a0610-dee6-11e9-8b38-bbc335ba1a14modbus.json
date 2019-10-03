@@ -1,0 +1,17 @@
+{
+    "migrationVersion": {
+        "visualization": "6.7.2"
+    }, 
+    "type": "visualization", 
+    "updated_at": "2019-09-25T14:35:51.882Z", 
+    "visualization": {
+        "description": "", 
+        "kibanaSavedObjectMeta": {
+            "searchSourceJSON": "{\"index\":\"d6c9a2d0-dee0-11e9-8b38-bbc335ba1a14\",\"query\":{\"query\":\"\",\"language\":\"lucene\"},\"filter\":[]}"
+        }, 
+        "title": "SN-Modbus-Total", 
+        "uiStateJSON": "{}", 
+        "version": 1, 
+        "visState": "{\"title\":\"SN-Modbus-Total\",\"type\":\"metric\",\"params\":{\"addTooltip\":true,\"addLegend\":false,\"type\":\"metric\",\"metric\":{\"percentageMode\":false,\"useRanges\":false,\"colorSchema\":\"Green to Red\",\"metricColorMode\":\"None\",\"colorsRange\":[{\"from\":0,\"to\":10000}],\"labels\":{\"show\":true},\"invertColors\":false,\"style\":{\"bgFill\":\"#000\",\"bgColor\":false,\"labelColor\":false,\"subText\":\"\",\"fontSize\":60}}},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{}}]}"
+    }
+}

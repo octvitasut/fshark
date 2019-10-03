@@ -1,0 +1,20 @@
+{
+    "search": {
+        "columns": [
+            "_source"
+        ], 
+        "description": "", 
+        "hits": 0, 
+        "kibanaSavedObjectMeta": {
+            "searchSourceJSON": "{\"index\":\"dde05290-dedf-11e9-8b38-bbc335ba1a14\",\"highlightAll\":true,\"version\":true,\"query\":{\"language\":\"lucene\",\"query\":\"\"},\"filter\":[]}"
+        }, 
+        "sort": [
+            "@timestamp", 
+            "desc"
+        ], 
+        "title": "SN-SIP-EventsList", 
+        "version": 1
+    }, 
+    "type": "search", 
+    "updated_at": "2019-09-24T16:09:36.055Z"
+}
