@@ -1,7 +1,13 @@
 {
     "search": {
         "columns": [
-            "_source"
+            "src_ip", 
+            "src_port", 
+            "dest_ip", 
+            "dest_port", 
+            "oicq.oicq_command", 
+            "oicq.oicq_data", 
+            "oicq.oicq_version"
         ], 
         "description": "", 
         "hits": 0, 
@@ -12,9 +18,9 @@
             "@timestamp", 
             "desc"
         ], 
-        "title": "SN-OICQ-EventsList", 
+        "title": "OICQ-EventsList", 
         "version": 1
     }, 
     "type": "search", 
-    "updated_at": "2019-09-24T16:08:36.094Z"
+    "updated_at": "2019-10-06T09:51:25.512Z"
 }

@@ -23,9 +23,9 @@
             "@timestamp", 
             "desc"
         ], 
-        "title": "SN-DHCP-EventsList", 
+        "title": "DHCP-EventsList", 
         "version": 1
     }, 
     "type": "search", 
-    "updated_at": "2018-10-09T12:38:19.008Z"
+    "updated_at": "2019-10-06T09:51:24.484Z"
 }

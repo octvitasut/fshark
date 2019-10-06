@@ -1,7 +1,12 @@
 {
     "search": {
         "columns": [
-            "_source"
+            "src_ip", 
+            "src_port", 
+            "dest_ip", 
+            "dest_port", 
+            "iax2.flow_id", 
+            "iax2.pt_type"
         ], 
         "description": "", 
         "hits": 0, 
@@ -12,9 +17,9 @@
             "@timestamp", 
             "desc"
         ], 
-        "title": "SN-IAX2-EventsList", 
+        "title": "IAX2-EventsList", 
         "version": 1
     }, 
     "type": "search", 
-    "updated_at": "2019-09-24T16:06:34.236Z"
+    "updated_at": "2019-10-06T09:51:25.492Z"
 }

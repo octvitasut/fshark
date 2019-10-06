@@ -14,5 +14,6 @@
         "uiStateJSON": "{\"P-3\":{\"vis\":{\"legendOpen\":false}}}", 
         "version": 1
     }, 
-    "type": "dashboard"
+    "type": "dashboard", 
+    "updated_at": "2019-10-04T14:35:10.491Z"
 }

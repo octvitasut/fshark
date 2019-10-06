@@ -1,9 +1,13 @@
 {
+    "migrationVersion": {
+        "visualization": "6.7.2"
+    }, 
     "type": "visualization", 
+    "updated_at": "2019-10-04T14:36:05.294Z", 
     "visualization": {
         "description": "", 
         "kibanaSavedObjectMeta": {
-            "searchSourceJSON": "{\"index\":\"logstash-dns-*\",\"query\":{\"query_string\":{\"query\":\"event_type: dns\",\"analyze_wildcard\":true}},\"filter\":[]}"
+            "searchSourceJSON": "{\"index\":\"logstash-dns-*\",\"query\":{\"query\":{\"query_string\":{\"query\":\"event_type: dns\",\"analyze_wildcard\":true}},\"language\":\"lucene\"},\"filter\":[]}"
         }, 
         "title": "SN-DNS-GeoIP", 
         "uiStateJSON": "{}", 

@@ -8,9 +8,9 @@
         "optionsJSON": "{\"darkTheme\":false,\"hidePanelTitles\":false,\"useMargins\":true}", 
         "panelsJSON": "[{\"embeddableConfig\":{},\"gridData\":{\"x\":0,\"y\":23,\"w\":12,\"h\":14,\"i\":\"1\"},\"id\":\"ed79a480-dee5-11e9-8b38-bbc335ba1a14\",\"panelIndex\":\"1\",\"type\":\"visualization\",\"version\":\"6.8.2\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":12,\"y\":23,\"w\":11,\"h\":15,\"i\":\"2\"},\"id\":\"0001c0b0-dee6-11e9-8b38-bbc335ba1a14\",\"panelIndex\":\"2\",\"type\":\"visualization\",\"version\":\"6.8.2\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":0,\"y\":38,\"w\":23,\"h\":15,\"i\":\"3\"},\"id\":\"14345890-dee6-11e9-8b38-bbc335ba1a14\",\"panelIndex\":\"3\",\"type\":\"visualization\",\"version\":\"6.8.2\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":24,\"y\":23,\"w\":11,\"h\":15,\"i\":\"4\"},\"id\":\"26b744a0-dee6-11e9-8b38-bbc335ba1a14\",\"panelIndex\":\"4\",\"type\":\"visualization\",\"version\":\"6.8.2\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":36,\"y\":23,\"w\":11,\"h\":15,\"i\":\"5\"},\"id\":\"3f075400-dee6-11e9-8b38-bbc335ba1a14\",\"panelIndex\":\"5\",\"type\":\"visualization\",\"version\":\"6.8.2\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":0,\"y\":8,\"w\":48,\"h\":15,\"i\":\"6\"},\"id\":\"6b1148d0-dee6-11e9-8b38-bbc335ba1a14\",\"panelIndex\":\"6\",\"type\":\"visualization\",\"version\":\"6.8.2\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":0,\"y\":53,\"w\":47,\"h\":15,\"i\":\"7\"},\"id\":\"5f6da8d0-dee5-11e9-8b38-bbc335ba1a14\",\"panelIndex\":\"7\",\"type\":\"search\",\"version\":\"6.8.2\"},{\"gridData\":{\"x\":0,\"y\":0,\"w\":48,\"h\":8,\"i\":\"8\"},\"version\":\"6.8.2\",\"panelIndex\":\"8\",\"type\":\"visualization\",\"id\":\"ce6a0610-dee6-11e9-8b38-bbc335ba1a14\",\"embeddableConfig\":{}}]", 
         "timeRestore": false, 
-        "title": "SN-H225Ras", 
+        "title": "H225Ras", 
         "version": 1
     }, 
     "type": "dashboard", 
-    "updated_at": "2019-09-24T16:18:25.267Z"
+    "updated_at": "2019-10-06T09:51:31.578Z"
 }

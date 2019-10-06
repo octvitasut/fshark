@@ -5,6 +5,9 @@
         "timeFieldName": "@timestamp", 
         "title": "logstash-smtp-*"
     }, 
+    "migrationVersion": {
+        "index-pattern": "6.5.0"
+    }, 
     "type": "index-pattern", 
-    "updated_at": "2018-10-09T20:42:11.007Z"
+    "updated_at": "2019-10-06T09:51:14.334Z"
 }

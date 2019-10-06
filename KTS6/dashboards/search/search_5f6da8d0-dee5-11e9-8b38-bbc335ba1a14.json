@@ -12,9 +12,9 @@
             "@timestamp", 
             "desc"
         ], 
-        "title": "SN-H225Ras-EventsList", 
+        "title": "H225Ras-EventsList", 
         "version": 1
     }, 
     "type": "search", 
-    "updated_at": "2019-09-24T16:07:14.141Z"
+    "updated_at": "2019-10-06T09:51:24.479Z"
 }

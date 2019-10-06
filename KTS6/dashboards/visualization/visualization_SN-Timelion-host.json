@@ -1,5 +1,9 @@
 {
+    "migrationVersion": {
+        "visualization": "6.7.2"
+    }, 
     "type": "visualization", 
+    "updated_at": "2019-10-04T14:35:17.644Z", 
     "visualization": {
         "description": "", 
         "kibanaSavedObjectMeta": {

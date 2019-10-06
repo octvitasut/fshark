@@ -1,7 +1,15 @@
 {
     "search": {
         "columns": [
-            "_source"
+            "src_ip", 
+            "src_port", 
+            "dest_ip", 
+            "dest_port", 
+            "imap.user", 
+            "imap.password", 
+            "imap.direction", 
+            "imap.state", 
+            "imap.state_change"
         ], 
         "description": "", 
         "hits": 0, 
@@ -12,9 +20,9 @@
             "@timestamp", 
             "desc"
         ], 
-        "title": "SN-IMAP-EventsList", 
+        "title": "IMAP-EventsList", 
         "version": 1
     }, 
     "type": "search", 
-    "updated_at": "2019-09-24T15:51:52.687Z"
+    "updated_at": "2019-10-06T09:51:24.507Z"
 }

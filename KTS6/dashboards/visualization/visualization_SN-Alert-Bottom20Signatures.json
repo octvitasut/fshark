@@ -1,9 +1,13 @@
 {
+    "migrationVersion": {
+        "visualization": "6.7.2"
+    }, 
     "type": "visualization", 
+    "updated_at": "2019-10-04T14:35:23.760Z", 
     "visualization": {
         "description": "", 
         "kibanaSavedObjectMeta": {
-            "searchSourceJSON": "{\"index\":\"logstash-alert-*\",\"query\":{\"query_string\":{\"query\":\"event_type: alert\",\"analyze_wildcard\":true}},\"filter\":[]}"
+            "searchSourceJSON": "{\"index\":\"logstash-alert-*\",\"query\":{\"query\":{\"query_string\":{\"query\":\"event_type: alert\",\"analyze_wildcard\":true}},\"language\":\"lucene\"},\"filter\":[]}"
         }, 
         "title": "SN-Alert-Bottom20Signatures", 
         "uiStateJSON": "{\"spy\":{\"mode\":{\"name\":null,\"fill\":false}}}", 

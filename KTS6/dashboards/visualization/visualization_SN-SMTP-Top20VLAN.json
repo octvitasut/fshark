@@ -1,9 +1,13 @@
 {
+    "migrationVersion": {
+        "visualization": "6.7.2"
+    }, 
     "type": "visualization", 
+    "updated_at": "2019-10-04T14:35:18.644Z", 
     "visualization": {
         "description": "", 
         "kibanaSavedObjectMeta": {
-            "searchSourceJSON": "{\"index\":\"logstash-smtp-*\",\"query\":{\"query_string\":{\"analyze_wildcard\":true,\"query\":\"event_type: smtp\"}},\"filter\":[]}"
+            "searchSourceJSON": "{\"index\":\"logstash-smtp-*\",\"query\":{\"query\":{\"query_string\":{\"analyze_wildcard\":true,\"query\":\"event_type: smtp\"}},\"language\":\"lucene\"},\"filter\":[]}"
         }, 
         "title": "SN-SMTP-Top20VLAN", 
         "uiStateJSON": "{\"spy\":{\"mode\":{\"name\":null,\"fill\":false}}}", 
