@@ -1,9 +1,13 @@
 {
+    "migrationVersion": {
+        "visualization": "6.7.2"
+    }, 
     "type": "visualization", 
+    "updated_at": "2019-10-04T14:35:37.048Z", 
     "visualization": {
         "description": "", 
         "kibanaSavedObjectMeta": {
-            "searchSourceJSON": "{\"index\":\"logstash-*\",\"query\":{\"query_string\":{\"query\":\"event_type: * -event_type: stats -event_type: flow\",\"analyze_wildcard\":true}},\"filter\":[]}"
+            "searchSourceJSON": "{\"index\":\"logstash-*\",\"query\":{\"query\":{\"query_string\":{\"query\":\"event_type: * -event_type: stats -event_type: flow\",\"analyze_wildcard\":true}},\"language\":\"lucene\"},\"filter\":[]}"
         }, 
         "title": "SN-EventTypeOverTimeExcept-StatsAndFlow", 
         "uiStateJSON": "{}", 

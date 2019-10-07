@@ -14,5 +14,6 @@
         "uiStateJSON": "{\"spy\":{\"mode\":{\"fill\":false,\"name\":null}},\"P-3\":{\"spy\":{\"mode\":{\"name\":null,\"fill\":false}}}}", 
         "version": 1
     }, 
-    "type": "dashboard"
+    "type": "dashboard", 
+    "updated_at": "2019-10-04T14:35:10.483Z"
 }

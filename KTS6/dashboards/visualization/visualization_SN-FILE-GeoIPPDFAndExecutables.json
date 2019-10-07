@@ -1,9 +1,13 @@
 {
+    "migrationVersion": {
+        "visualization": "6.7.2"
+    }, 
     "type": "visualization", 
+    "updated_at": "2019-10-04T14:36:04.263Z", 
     "visualization": {
         "description": "", 
         "kibanaSavedObjectMeta": {
-            "searchSourceJSON": "{\"index\":\"logstash-fileinfo-*\",\"query\":{\"query_string\":{\"query\":\"fileinfo.type:*\",\"analyze_wildcard\":true}},\"filter\":[]}"
+            "searchSourceJSON": "{\"index\":\"logstash-fileinfo-*\",\"query\":{\"query\":{\"query_string\":{\"query\":\"fileinfo.type:*\",\"analyze_wildcard\":true}},\"language\":\"lucene\"},\"filter\":[]}"
         }, 
         "title": "SN-FILE-GeoIPPDFAndExecutables", 
         "uiStateJSON": "{\"spy\":{\"mode\":{\"name\":null,\"fill\":false}}}", 

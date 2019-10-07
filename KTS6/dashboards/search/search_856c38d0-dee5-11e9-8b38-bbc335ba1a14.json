@@ -12,9 +12,9 @@
             "@timestamp", 
             "desc"
         ], 
-        "title": "SN-Megaco-EventsList", 
+        "title": "Megaco-EventsList", 
         "version": 1
     }, 
     "type": "search", 
-    "updated_at": "2019-09-24T16:08:17.885Z"
+    "updated_at": "2019-10-06T09:51:24.500Z"
 }

@@ -21,9 +21,9 @@
             "@timestamp", 
             "desc"
         ], 
-        "title": "SN-IKEv2-EventsList", 
+        "title": "IKEv2-EventsList", 
         "version": 1
     }, 
     "type": "search", 
-    "updated_at": "2018-10-09T12:31:20.185Z"
+    "updated_at": "2019-10-06T09:51:22.160Z"
 }

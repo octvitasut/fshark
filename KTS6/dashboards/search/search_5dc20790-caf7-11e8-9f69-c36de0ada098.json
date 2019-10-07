@@ -21,9 +21,9 @@
             "@timestamp", 
             "desc"
         ], 
-        "title": "SN-KRB5-EventsList", 
+        "title": "KRB5-EventsList", 
         "version": 1
     }, 
     "type": "search", 
-    "updated_at": "2018-10-08T12:40:41.353Z"
+    "updated_at": "2019-10-06T09:51:22.592Z"
 }

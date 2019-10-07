@@ -14,5 +14,6 @@
         "uiStateJSON": "{\"P-9\":{\"vis\":{\"colors\":{\"kernel drops: Sum of stats.capture.kernel_drops_delta\":\"#BF1B00\",\"kernel drops: Sum of stats.capture.kernel_packets_delta\":\"#508642\",\"Sum of stats.capture.kernel_packets_delta\":\"#1F78C1\",\"Sum of stats.capture.kernel_drops_delta\":\"#BF1B00\"}}}}", 
         "version": 1
     }, 
-    "type": "dashboard"
+    "type": "dashboard", 
+    "updated_at": "2019-10-04T14:35:09.480Z"
 }

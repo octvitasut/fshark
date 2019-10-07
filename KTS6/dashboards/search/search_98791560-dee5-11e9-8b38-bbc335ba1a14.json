@@ -1,7 +1,12 @@
 {
     "search": {
         "columns": [
-            "_source"
+            "src_ip", 
+            "src_port", 
+            "dest_ip", 
+            "dest_port", 
+            "ldap.full_message.message_type.searchResDone.matched_dn", 
+            "ldap.full_message.message_type.searchResDone.response_code"
         ], 
         "description": "", 
         "hits": 0, 
@@ -12,9 +17,9 @@
             "@timestamp", 
             "desc"
         ], 
-        "title": "SN-LDAP-EventsList", 
+        "title": "LDAP-EventsList", 
         "version": 1
     }, 
     "type": "search", 
-    "updated_at": "2019-09-24T16:08:49.846Z"
+    "updated_at": "2019-10-06T09:51:25.502Z"
 }

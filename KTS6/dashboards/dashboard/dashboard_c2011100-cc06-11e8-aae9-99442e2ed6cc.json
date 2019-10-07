@@ -14,9 +14,9 @@
         "timeFrom": "now-24h", 
         "timeRestore": true, 
         "timeTo": "now", 
-        "title": "SN-TrafficID", 
+        "title": "TrafficID", 
         "version": 1
     }, 
     "type": "dashboard", 
-    "updated_at": "2018-10-09T21:03:23.152Z"
+    "updated_at": "2019-10-06T09:51:31.259Z"
 }

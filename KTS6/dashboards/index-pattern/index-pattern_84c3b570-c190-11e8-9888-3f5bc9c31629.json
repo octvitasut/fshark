@@ -5,6 +5,9 @@
         "timeFieldName": "@timestamp", 
         "title": "logstash-dhcp-*"
     }, 
+    "migrationVersion": {
+        "index-pattern": "6.5.0"
+    }, 
     "type": "index-pattern", 
-    "updated_at": "2018-10-12T12:14:12.169Z"
+    "updated_at": "2019-10-06T09:51:12.274Z"
 }

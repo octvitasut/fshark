@@ -21,9 +21,9 @@
             "@timestamp", 
             "desc"
         ], 
-        "title": "SN-NFS-EventsList", 
+        "title": "NFS-EventsList", 
         "version": 1
     }, 
     "type": "search", 
-    "updated_at": "2018-10-08T19:42:19.060Z"
+    "updated_at": "2019-10-06T09:51:23.459Z"
 }

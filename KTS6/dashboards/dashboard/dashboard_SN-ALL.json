@@ -14,5 +14,6 @@
         "uiStateJSON": "{\"P-10\":{\"vis\":{\"legendOpen\":false}},\"P-23\":{\"vis\":{\"colors\":{\"Count\":\"#1F78C1\"},\"legendOpen\":false}},\"P-2\":{\"vis\":{\"legendOpen\":false}},\"P-25\":{\"spy\":{\"mode\":{\"name\":null,\"fill\":false}}}}", 
         "version": 1
     }, 
-    "type": "dashboard"
+    "type": "dashboard", 
+    "updated_at": "2019-10-04T14:35:10.494Z"
 }

@@ -21,9 +21,9 @@
             "@timestamp", 
             "desc"
         ], 
-        "title": "SN-SMB-EventsList", 
+        "title": "SMB-EventsList", 
         "version": 1
     }, 
     "type": "search", 
-    "updated_at": "2018-10-12T11:39:56.786Z"
+    "updated_at": "2019-10-06T09:51:22.127Z"
 }
