@@ -1,4 +1,7 @@
 {
+    "migrationVersion": {
+        "visualization": "6.7.2"
+    }, 
     "type": "visualization", 
     "visualization": {
         "description": "", 

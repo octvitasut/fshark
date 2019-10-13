@@ -8,9 +8,14 @@
             "EveBox", 
             "FPC", 
             "krb5.cname", 
+            "in_iface", 
+            "krb5.encryption", 
+            "krb5.error_code", 
+            "krb5.failed_request", 
             "krb5.msg_type", 
             "krb5.realm", 
-            "krb5.sname"
+            "krb5.sname", 
+            "krb5.weak_encryption"
         ], 
         "description": "", 
         "hits": 0, 
@@ -25,5 +30,5 @@
         "version": 1
     }, 
     "type": "search", 
-    "updated_at": "2019-10-06T09:51:22.592Z"
+    "updated_at": "2019-10-13T02:38:12.423Z"
 }
